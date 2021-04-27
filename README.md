@@ -31,5 +31,4 @@ _Certificates_:
 
 ### **Employment**
 
-1. **Software Enginner @ Publicissapient, Shanghai**
-`2019.07 - 2020.8`
+1. **Software Engineer @ Publicissapient, Shanghai** *2019.07 - 2020.08*
