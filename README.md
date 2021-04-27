@@ -8,7 +8,7 @@
 
 ### **Personal** 🔖
 
-| <!-- -->      | <!-- -->               | <!-- -->         | <!-- -->                    |
+| &nbsp;        | &nbsp;                 | &nbsp;           | &nbsp;                      |
 | ------------- | ---------------------- | ---------------- | --------------------------- |
 | 📞 **Phone:** | +86 159-2109-8538      | 🏙 **Address:**   | MinHang, Shanghai, China 🇨🇳 |
 | 📧 **Email:** | abram.yang@outlook.com | 🌏 **Language:** | Mandarin, English           |
@@ -26,6 +26,6 @@
   `College English Test Brand 6 (CET6)` `College Computer Rank Level 2`  
   `Web Design of CITT Level 3` `Scholarships: Level 2 --x2 / Level 3 --x5`
 
-### **Employment** 🧑‍💻
+### **Employment** 💼
 
 - **Software Engineer @ Publicissapient, Shanghai** _2019.07 - 2020.08_
