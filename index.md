@@ -4,16 +4,16 @@
 
 ### **Summary** 🤵
 
-> I am a software engineer and frontend web developer speciallizing in the Javascript and css, familiarizing with React framework and Material UI library. I build successful websites and web apps that are fast, easy to use, and coded with the same eye for detail as a designer, and have abundance of experience on minisite for automobiles, meetings and devices.
+> I am a software engineer and frontend web developer specializing in the Javascript and css, familiarizing with React framework and Material UI library. I build successful websites and web apps that are fast, easy to use, and coded with the same eye for detail as a designer, and have abundance of experience on minisite for automobiles, meetings and devices.
 
-### **Personal** 🔖
+### **Info** 🔖
 
 📞 &ensp;**Phone:**&ensp;&ensp;&ensp;&ensp; +86 159-2109-8538  
 📧 &ensp;**Email:**&ensp;&ensp;&ensp;&ensp;&ensp; abram.yang@outlook.com  
-🏙 &ensp;**Address:**&ensp;&ensp; MinHang, Shanghai, China 🇨🇳  
+🏙 &ensp;**Address:**&ensp;&ensp; Minhang, Shanghai, China 🇨🇳  
 🌏 &ensp;**Language:**&ensp; Mandarin, English
 
-### **Skill** 🛠
+### **Skills** 🛠
 
 - `Javascript(ES6)` `Webpack` `Gulp` `Node` `Sass` `React` `Vue` `MaterialUI` `EDM` `Gatsby` `jQuery` `Photoshop` `MJML`
 
@@ -23,8 +23,7 @@
 
 - **Electronic Engineering** &ensp;| &ensp; _Bachelor’s degree 🎓 2019_  
    _Certificates_:  
-  `College English Test Brand 6 (CET6)` `College Computer Rank Level 2`  
-  ` Scholarships: Level 2 --x2 / Level 3 --x5` `Web Design of CITT Level 3 `
+   `College English Test Brand 6 (CET6)` `College Computer Rank Level 2` `Web Design of CITT Level 3 `
 
 ### **Employment** 💼
 

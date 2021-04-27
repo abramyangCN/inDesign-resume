@@ -1,0 +1,67 @@
+{
+  "en": {
+    "name": "Abraham Yang 杨杨",
+    "headLine": "Frontend Software Engineer",
+    "summary": "I am a software engineer and frontend web developer specializing in the Javascript and css, familiarizing with React framework and Material UI library. I build successful websites and web apps that are fast, easy to use, and coded with the same eye for detail as a designer, and have abundance of experience on minisite for automobiles, meetings and devices.",
+    "info": {
+      "phone": "+86 159-2109-8538",
+      "email": "abram.yang@outlook.com",
+      "address": "Minhang, Shanghai, China 🇨🇳",
+      "language": "Mandarin, English"
+    },
+    "skills": {
+      "stacks": ["Javascript(ES6)", "Webpack", "Gulp", "Node", "Sass", "React", "Vue", "MaterialUI", "Mjml", "Gatsby", "jQuery"],
+      "tools": ["Photoshop", "Figma", "Zeplin", "Jira", "Teams"],
+      "solutions": ["Minisite", "EDM", "SaaS", "CMS"]
+    },
+    "education": {
+      "school": "Shanghai Dianji University 🏫",
+      "major": "Electronic Engineering",
+      "degree": "Bachelor's Degree",
+      "date": "2019",
+      "certs": ["College English Test Brand 6 (CET6)", "College Computer Rank Level 2"]
+    },
+    "employment": [
+      {
+        "company": "Publicissapient",
+        "title": "Software Engineer",
+        "startDate": "2019.07",
+        "endDate": "2020.08",
+        "description": "<ul><li><p><strong>Huawei Honor Minisite: Microsoft365 challenge:</strong></p><p>The minisite made by React framework and Material UI library post the race about the microsoft 365 user to create excellent subjects and let them upload their works to backend to earn a reward.</p></li><li><p><strong>IQOS EDM:</strong></p><p>Build eDM template to implement on salesforce CRM by Mjml eDM framework.</p></li><li><p><strong>Marriott CN official website</strong></p><p>I participated in the Marriott CN Locale Project with Indian team. Baidu Map development implement on Marriott, read the the documentation and write English document for introduction for wechat JSSDK.</p></li><li><p><strong>DS Automobile:</strong></p><p>Collaborate with my team to build a fast, fade animated, artistic and responsive website.</p></li><li><p><strong>Huawei MWC2020 Minisite</strong></p><p>Follow the design of UI/UX designers to build a faster, animated and functional website.This website is used for display the video and news of the Live, and be able to filter the video by tags.</p></li><li><p><strong>Huawei History Minisite:</strong></p><p>This website is only for landscape view, whatever users rotate the phone would show the same view, and shown as a storyline to users for telling the history of Huawei.</p></li><li><p><strong>Huawei MBBF Minisite template:</strong></p><p>This website is used for display the video and news of the MBBF, and show the location of the exhibition.</p></li><li><p><strong>Huawei GT Minisite:</strong></p><p>This website display a list of Huawei store, and link to Tencent Map for navigation.</p></li><li><p><strong>SAICMotor Roewe&amp;MG:</strong></p><p>Maintain the official website and build vehicle pages periodically.</p></li></ul>"
+      }
+    ]
+  },
+  "cn": {
+    "name": "杨杨 Abraham Yang",
+    "headLine": "前端软件开发工程师",
+    "summary": "本人是一名软件工程师和前端web开发人员，擅长Javascript和css，熟悉React框架和Material UI库。主要建立网站和网页应用程序，这些网站和应用程序速度快，易于使用，编码时对细节有着与设计师相同的眼光。在汽车行业、会议和移动设备的网站上有丰富的经验",
+    "info": {
+      "phone": "+86 159-2109-8538",
+      "email": "abram.yang@outlook.com",
+      "address": "🇨🇳上海市闵行区",
+      "language": "普通话，英语"
+    },
+    "skills": {
+      "stacks": ["Javascript(ES6)", "Webpack", "Gulp", "Node", "Sass", "React", "Vue", "MaterialUI", "Mjml", "Gatsby", "jQuery"],
+      "tools": ["Photoshop", "Figma", "Zeplin", "Jira", "Teams"],
+      "solutions": ["Minisite", "EDM", "SaaS", "CMS"]
+    },
+    "education": {
+      "school": "上海电机学院 🏫",
+      "major": "电子信息工程",
+      "degree": "本科",
+      "date": "2019",
+      "certs": ["全国大学英语6级 (CET6)", "上海市计算机2级", "网页设计3级职业技能证书"]
+    },
+
+    "employment": [
+      {
+        "company": "Publicissapient",
+        "title": "前端软件开发工程师",
+        "startDate": "2019.07",
+        "endDate": "2020.08",
+        "description": "<ul><li><p><strong>Huawei Honor Minisite: Microsoft365 challenge:</strong></p><p>The minisite made by React framework and Material UI library post the race about the microsoft 365 user to create excellent subjects and let them upload their works to backend to earn a reward.</p></li><li><p><strong>IQOS EDM:</strong></p><p>Build eDM template to implement on salesforce CRM by Mjml eDM framework.</p></li><li><p><strong>Marriott CN official website</strong></p><p>I participated in the Marriott CN Locale Project with Indian team. Baidu Map development implement on Marriott, read the the documentation and write English document for introduction for wechat JSSDK.</p></li><li><p><strong>DS Automobile:</strong></p><p>Collaborate with my team to build a fast, fade animated, artistic and responsive website.</p></li><li><p><strong>Huawei MWC2020 Minisite</strong></p><p>Follow the design of UI/UX designers to build a faster, animated and functional website.This website is used for display the video and news of the Live, and be able to filter the video by tags.</p></li><li><p><strong>Huawei History Minisite:</strong></p><p>This website is only for landscape view, whatever users rotate the phone would show the same view, and shown as a storyline to users for telling the history of Huawei.</p></li><li><p><strong>Huawei MBBF Minisite template:</strong></p><p>This website is used for display the video and news of the MBBF, and show the location of the exhibition.</p></li><li><p><strong>Huawei GT Minisite:</strong></p><p>This website display a list of Huawei store, and link to Tencent Map for navigation.</p></li><li><p><strong>SAICMotor Roewe&amp;MG:</strong></p><p>Maintain the official website and build vehicle pages periodically.</p></li></ul>"
+      }
+    ]
+  }
+}
