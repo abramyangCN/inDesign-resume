@@ -2,7 +2,7 @@
 
 ## **Frontend Web Developer**
 
-### **Summary** 🤵🏻‍♂️
+### **Summary** 🤵
 
 I am a software engineer and frontend web developer speciallizing in the Javascript and css, familiarizing with React framework and Material UI library. I build successful websites and web apps that are fast, easy to use, and coded with the same eye for detail as a designer, and have abundance of experience on minisite for automobiles, meetings and devices.
 
