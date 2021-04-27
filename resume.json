@@ -11,7 +11,7 @@
     },
     "skills": {
       "stacks": ["Javascript(ES6)", "Webpack", "Gulp", "Node", "Sass", "React", "Vue", "MaterialUI", "Mjml", "Gatsby", "jQuery"],
-      "tools": ["Photoshop", "Figma", "Zeplin", "Jira", "Teams"],
+      "tools": ["Photoshop", "Figma", "Zeplin", "Jira", "OSS"],
       "solutions": ["Minisite", "EDM", "SaaS", "CMS"]
     },
     "education": {

@@ -15,7 +15,14 @@
 
 ### **Skills** 🛠
 
-- `Javascript(ES6)` `Webpack` `Gulp` `Node` `Sass` `React` `Vue` `MaterialUI` `EDM` `Gatsby` `jQuery` `Photoshop` `MJML`
+- **Stacks:**  
+   `Javascript(ES6)` `React` `Vue` `MaterialUI` `Webpack` `Gulp` `Node` `Sass` `Gatsby` `jQuery` `Mjml`
+
+- **Tools:**  
+  `Photoshop`, `Figma`, `Zeplin`, `Jira`, `OSS`
+
+- **Solutions:**  
+  `Minisite`, `EDM`, `SaaS`, `CMS`
 
 ### **Education** 📖
 
