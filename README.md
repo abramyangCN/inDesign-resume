@@ -4,7 +4,7 @@
 
 ### **Summary** 🤵
 
-> Software engineer specializing in  front-end web development using Javascript and CSS.  Creates fast, easy-to-use, and progressively designed web applications using React Framework and Material UI library. Experienced in making web applications and Minisites for automobile, meetings, and devices application.
+> I'm a software engineer specializing in front-end web development using Javascript and CSS. Creates fast, easy-to-use, and progressively designed web applications using React Framework and Material UI library. Experienced in making web applications and Minisites for automobile, meetings, and devices application.
 
 ### **Info** 🔖
 
